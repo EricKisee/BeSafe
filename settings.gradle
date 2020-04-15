@@ -1,0 +1,2 @@
+rootProject.name='BeSafe'
+include ':app'
